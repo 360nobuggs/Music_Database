@@ -1,0 +1,15 @@
+insert into Género (cod_genero, nome_genero) values (1, 'rock');
+insert into Género (cod_genero, nome_genero) values (2, 'pop');
+insert into Género (cod_genero, nome_genero) values (3, 'rap');
+insert into Género (cod_genero, nome_genero) values (4, 'country');
+insert into Género (cod_genero, nome_genero) values (5, 'classical');
+insert into Género (cod_genero, nome_genero) values (6, 'latino');
+insert into Género (cod_genero, nome_genero) values (7, 'jazz');
+insert into Género (cod_genero, nome_genero) values (8, 'blues');
+insert into Género (cod_genero, nome_genero) values (9, 'hip-hop');
+insert into Género (cod_genero, nome_genero) values (10, 'indie');
+insert into Género (cod_genero, nome_genero) values (11, 'alternative');
+insert into Género (cod_genero, nome_genero) values (12, 'fado');
+insert into Género (cod_genero, nome_genero) values (13, 'eletronic');
+insert into Género (cod_genero, nome_genero) values (14, 'metal');
+insert into Género (cod_genero, nome_genero) values (15, 'punk');
